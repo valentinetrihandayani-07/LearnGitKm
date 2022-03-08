@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Praktikum5</string>
+    <string name="text1">Save</string>
+    <string name="text2">Please input email and password</string>
+    <string name="text3"> Sign Up </string>
+    <string name="text4"> Email </string>
+    <string name="text5"> Username </string>
+    <string name="text6"> Password </string>
+    <string name="text7"> Confirm Password </string>
+    <string name="text8"> Pilih </string>
+    <string name="text9"> male </string>
+    <string name="text10"> female</string>
+    <string name="text11"> Saya setuju </string>
+
+</resources>
